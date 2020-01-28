@@ -25,7 +25,9 @@ dependencies:
   - lens-aeson
   - bytestring
   - text
+  - mtl
   - http-conduit
+  - async
 
 library:
   source-dirs: src
