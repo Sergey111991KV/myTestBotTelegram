@@ -31,6 +31,8 @@ dependencies:
   - http-client
   - http-client-tls
   - http-types
+  - yaml
+  - aeson
 
 library:
   source-dirs: src
