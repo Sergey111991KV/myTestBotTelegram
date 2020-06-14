@@ -33,6 +33,8 @@ dependencies:
   - http-types
   - yaml
   - aeson
+  - conduit-extra
+  - conduit
 
 library:
   source-dirs: src
